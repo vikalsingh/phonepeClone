@@ -23,6 +23,7 @@ const Images = {
     creditcardIcon: require("../images/credit-card.png"),
     lightIcon: require("../images/light.png"),
     dthIcon: require("../images/dth.png"),
+    gasIcon: require("../images/gas.png"),
   };
   
   export default Images;

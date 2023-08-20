@@ -156,9 +156,9 @@ const Home = () => {
             </TouchableOpacity>
             <TouchableOpacity style={styles.transferTab}>
               <View style={styles.rechargeCard}>
-                <Image source={Images.dthIcon} style={styles.rechargeIcons} />
+                <Image source={Images.gasIcon} style={styles.rechargeIcons} />
               </View>
-              <Text style={styles.transferText}>{'DTH'}</Text>
+              <Text style={styles.transferText}>{'Gas Bill'}</Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.transferTab}>
               <View style={styles.rechargeCard}>
