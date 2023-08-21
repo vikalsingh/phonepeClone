@@ -5,6 +5,8 @@ const Stores = () => {
     return(
         <View>
             <Text>Stores</Text>
+            <Text>Stores</Text>
+            <Text>Stores</Text>
         </View>
     )
 }

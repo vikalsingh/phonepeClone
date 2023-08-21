@@ -5,6 +5,11 @@ const Wealth = () => {
     return(
         <View>
             <Text>Wealth</Text>
+            <Text>Wealth</Text>
+            <Text>Wealth</Text>
+            <Text>Wealth</Text>
+            <Text>Wealth</Text>
+            <Text>Wealth</Text>
         </View>
     )
 }

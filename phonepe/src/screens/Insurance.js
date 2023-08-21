@@ -5,6 +5,10 @@ const Insurance = () => {
     return(
         <View>
             <Text>Insurance</Text>
+            <Text>Insurance</Text>
+            <Text>Insurance</Text>
+            <Text>Insurance</Text>
+            <Text>Insurance</Text>
         </View>
     )
 }
